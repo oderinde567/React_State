@@ -6,7 +6,7 @@ class App extends Component {
 
     this.state = {
       Person: {
-        fullName: "John Doe",
+        fullName: "Oderinde Femi",
         bio: "A passionate software developer",
         imgSrc: "https://via.placeholder.com/150",
         profession: "Frontend Developer",
